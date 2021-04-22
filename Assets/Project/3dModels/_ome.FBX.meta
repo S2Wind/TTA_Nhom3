@@ -1,9 +1,69 @@
 fileFormatVersion: 2
-guid: 2148e5728f983064dacbe8d8e6ec0739
+guid: 5f03a0e2f3045fb4eb1f1ed000ba8d36
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: 446f77e76d54c504eb19cc5862481e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ban cong tang 2
+    second: {fileID: 2100000, guid: 83a26f0cb27a71d4cadeeae265858a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ban le
+    second: {fileID: 2100000, guid: 8ad051ec52a654c48a1d700d8df83e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inox
+    second: {fileID: 2100000, guid: 8ad051ec52a654c48a1d700d8df83e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KinhCua
+    second: {fileID: 2100000, guid: 8f3216d9b92590d41b649eebfa91c751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KinhLanCan
+    second: {fileID: 2100000, guid: d353178e2c085bd4b871e8d2eb875a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #0
+    second: {fileID: 2100000, guid: 83a26f0cb27a71d4cadeeae265858a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: San tang 1
+    second: {fileID: 2100000, guid: 0a54bd3af66cc7c4096f1b0723a965be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: San tang 2
+    second: {fileID: 2100000, guid: 0d909552e2a3bd7499a7264ecae456e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tuong
+    second: {fileID: 2100000, guid: 1daea4fd3a2863c46956cf666535d4b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vien cua kinh
+    second: {fileID: 2100000, guid: 2347e7393ba94594284d9bc1e65372e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint
+    second: {fileID: 2100000, guid: 1daea4fd3a2863c46956cf666535d4b5, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
