@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Project/Scripts/BTL_TTA.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/Project/Scripts/InputAsset/BTL_TTA.inputactions'
 
 using System;
 using System.Collections;
