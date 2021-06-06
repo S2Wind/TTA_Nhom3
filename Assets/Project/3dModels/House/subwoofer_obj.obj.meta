@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 3b00f7a56814c1f4fabfda2f75cb91f7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bodyMat
+    second: {fileID: 2100000, guid: 901e6d7858694b64586347897ae98425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt1Mat
+    second: {fileID: 2100000, guid: 2449ce6b31a34ea4e91a6e041809a316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt2Mat
+    second: {fileID: 2100000, guid: 7781e3a189622c841bb04fff3097b30d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt3Mat
+    second: {fileID: 2100000, guid: 3e91643e4d0d207449f54e0d69faa73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt4Mat
+    second: {fileID: 2100000, guid: 82f3db2b7f356c54a9a0533a30ece197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt5Mat
+    second: {fileID: 2100000, guid: 6f383ddece28aa142a901bf56ae187ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt6Mat
+    second: {fileID: 2100000, guid: 606d04e1be58b2d4184cd02de6d657a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt7Mat
+    second: {fileID: 2100000, guid: ac647e040c926824c96de2b0f8e7faff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_bolt8Mat
+    second: {fileID: 2100000, guid: 61302732f9d71d04f94c205ff86909cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg1Mat
+    second: {fileID: 2100000, guid: 6c02cec9496b6f44ea21471bafba05f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg2Mat
+    second: {fileID: 2100000, guid: 6094125ef8795c147bcf7ebefbb9a154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg3Mat
+    second: {fileID: 2100000, guid: d7fae561d51934d439304fe8125ee8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg4Mat
+    second: {fileID: 2100000, guid: ad44263bf4353c74692f71ef3c28a192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg5Mat
+    second: {fileID: 2100000, guid: adda61b71cb26354ba0ff19f4721f2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg6Mat
+    second: {fileID: 2100000, guid: 6737d75e884bff74cb63f70045ae2327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_leg7Mat
+    second: {fileID: 2100000, guid: 412b7587e1323874cb9eaca5810ee144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_legMat
+    second: {fileID: 2100000, guid: b6034c6b87fc1ba4e87b7b5c8af570f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_roundthing1Mat
+    second: {fileID: 2100000, guid: daa7ec720965c754ba183dbb35ea1907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_roundthing2Mat
+    second: {fileID: 2100000, guid: f40338b174fe80141af20d55453f3fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_roundthing3Mat
+    second: {fileID: 2100000, guid: 8d779a6abd9067a4ba15788fccf0e4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_roundthingMat
+    second: {fileID: 2100000, guid: 0e3e9b325c4cf424487730ecb4106541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_speakerMat
+    second: {fileID: 2100000, guid: 8fc13a4d2ddcd394f91adeada80e8809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_speakerholder1Mat
+    second: {fileID: 2100000, guid: 663e6d2eb228f554796bcb6f7a7252ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subwoofer_yellowthingMat
+    second: {fileID: 2100000, guid: b05aa6ec85b43df40b60b94d2faa52e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speakerholder_SubwooferMat
+    second: {fileID: 2100000, guid: 32ca398ea005d354ea5ac9630e783dbd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
